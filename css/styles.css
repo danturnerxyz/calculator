@@ -16,6 +16,7 @@ body {
 
 .grid-item {
     background-color: white;
+    cursor: pointer;
     height: 50px;
     border-radius: 5px;
     display: flex;
